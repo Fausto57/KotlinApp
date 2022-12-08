@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoyalCookie</string>
+    <string name="tab_text_1">Terminado</string>
+    <string name="tab_text_2">Entregas</string>
+    <string name="todo">TODO</string>
+    <string name="texto">Cualquier Texto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment entregas</string>
+    <string name="entregas_fragments">Pedidos En Entrega</string>
+    <string name="termina_fragment">Pedidos Terminados</string>
+    <string name="txtDireccion">Direccion: </string>
+    <string name="txtNombre">Nombre: </string>
+    <string name="txtPedido">Pedido: </string>
+    <string name="entregaP">Ir a entregar pedido </string>
+    <string name="TerminaP">Finalizar entrega </string>
+</resources>
